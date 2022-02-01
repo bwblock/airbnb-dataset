@@ -12,7 +12,7 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 
 #### Notes:
 
-<i>review-score-model.ipynb</i> contains a linear model of feedback scores based on available quantitative and categorical features.
+<b>review-score-model.ipynb</b> contains a linear model of feedback scores based on available quantitative and categorical features.
 
 Jupyter notebook .ipynb files should render directly on github.
 
@@ -24,6 +24,6 @@ Current results of the review score model are as follows:
 - Rsquared score-training data:  0.6722
 - Rsquared score-test data:  0.6564
 
-In other words, 65.6 percent of the variance in the feedback review scores are explained by the model.
+In other words, 65.6 percent of the variance in the review scores are explained by the model.
 
 
