@@ -1,6 +1,6 @@
 # airbnb-dataset
 
-This project is an analysis of a Airbnb open dataset found on Kaggle <a href="https://www.kaggle.com/airbnb/seattle"> here.</a>
+This project is an analysis of an Airbnb open dataset from the Seattle area found on Kaggle <a href="https://www.kaggle.com/airbnb/seattle"> here.</a>
 
 The dataset has been provided under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CCO</a> Public Domain license
 
@@ -14,7 +14,7 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 
 <b>review-score-model.ipynb</b> contains a linear model of feedback scores based on available quantitative and categorical features.
 
-Jupyter notebook .ipynb files should render directly on github.
+Jupyter notebook .ipynb files should render directly from github.
 
 #### Results:
 
