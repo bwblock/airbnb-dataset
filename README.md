@@ -8,6 +8,7 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 
 - <a href="https://jupyter.org/"> Jupyter notebooks </a>
 - <a href="https://www.anaconda.com/"> Anaconda package</a>
+- listings.csv
 
 #### Notes:
 
@@ -19,9 +20,9 @@ Jupyter notebook .ipynb files should render directly on github.
 
 Current results of the review score model are as follows:
 
-Mean Absolute Error: 2.44
-Rsquared score-training data:  0.6722
-Rsquared score-test data:  0.6564
+- Mean Absolute Error: 2.44
+- Rsquared score-training data:  0.6722
+- Rsquared score-test data:  0.6564
 
 In other words, 65.6 percent of the variance in the feedback review scores are explained by the model.
 
