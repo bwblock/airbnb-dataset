@@ -24,6 +24,6 @@ Current results of the review score model are as follows:
 - Rsquared score-training data:  0.6722
 - Rsquared score-test data:  0.6564
 
-### <i>In other words, 65.6 percent of the variance in the review scores are explained by the model.</i>
+<b><i>In other words, 65.6 percent of the variance in the review scores are explained by the model.</i></b>
 
 
