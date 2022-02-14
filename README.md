@@ -25,14 +25,5 @@ Further discussion can be found in blog post <a href="https://medium.com/@bwbloc
 
 <b>review-score-model.ipynb</b> contains a linear model of feedback scores based on available quantitative and categorical features.
 
-#### Results:
-
-Current results of the review score model are as follows:
-
-- Mean Absolute Error: 2.53
-- Rsquared score-training data:  0.6924
-- Rsquared score-test data:  0.6564
-
-<b>In other words, 63.8 percent of the variance in the review scores are explained by the model.</b>
 
 
