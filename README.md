@@ -23,7 +23,6 @@ Further discussion can be found in blog post <a href="https://medium.com/@bwbloc
 
 #### Notes:
 
-<b>review-score-model.ipynb</b> contains a linear model of feedback scores based on available quantitative and categorical features.
-
+<b>review-score-model.ipynb</b> contains linear model for guest feedback scores 
 
 
