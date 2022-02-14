@@ -11,7 +11,7 @@ The dataset has been provided under a <a href="https://creativecommons.org/publi
 - <u>Question 3</u>: How do amenities correlate with the average guest feedback score for a listing?
 - <u>Question 4</u>: Can we build a predictive model for review scores?
 
-<b>results-summary</b> contains a summary of results of the analysis.
+<b>results-summary.ipynb</b> contains a summary of results of the analysis.
 
 Further discussion can be found in blog post <a href="https://medium.com/@bwblock/how-data-science-can-make-you-a-better-airbnb-host-242b57227283">here:</a>
 
