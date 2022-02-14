@@ -1,15 +1,15 @@
 # airbnb-dataset
 
-This project is an analysis of an Airbnb open dataset from the Seattle area found on Kaggle <a href="https://www.kaggle.com/airbnb/seattle"> here.</a>
+### This project is an analysis of an Airbnb open dataset from the Seattle area found on Kaggle <a href="https://www.kaggle.com/airbnb/seattle"> here.</a>
 
 The dataset has been provided under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CCO</a> Public Domain license
 
 In this analysis we answer the following questions:
 
-### <u>Question 1</u>: What is the distribution of property types in the Seattle Airbnb dataset?
-### <u>Question 2</u>: What is the set of possible amenities and what does the distribution look like?
-### <u>Question 3</u>: How do amenities correlate with the average guest feedback score for a listing?
-### <u>Question 4</u>: Can we build a predictive model for review scores?
+#### <u>Question 1</u>: What is the distribution of property types in the Seattle Airbnb dataset?
+#### <u>Question 2</u>: What is the set of possible amenities and what does the distribution look like?
+#### <u>Question 3</u>: How do amenities correlate with the average guest feedback score for a listing?
+#### <u>Question 4</u>: Can we build a predictive model for review scores?
 
 <b>results-summary</b> contains a summary of results of the analysis.
 
