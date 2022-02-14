@@ -25,8 +25,6 @@ Further discussion can be found in blog post <a href="https://medium.com/@bwbloc
 
 <b>review-score-model.ipynb</b> contains a linear model of feedback scores based on available quantitative and categorical features.
 
-Jupyter notebook .ipynb files should render directly from github.
-
 #### Results:
 
 Current results of the review score model are as follows:
