@@ -20,10 +20,10 @@ Jupyter notebook .ipynb files should render directly from github.
 
 Current results of the review score model are as follows:
 
-- Mean Absolute Error: 2.44
-- Rsquared score-training data:  0.6722
-- Rsquared score-test data:  0.6564
+- Mean Absolute Error: 2.5
+- Rsquared score-training data:  0.6802
+- Rsquared score-test data:  0.6383
 
-<b>In other words, 65.6 percent of the variance in the review scores are explained by the model.</b>
+<b>In other words, 63.8 percent of the variance in the review scores are explained by the model.</b>
 
 
