@@ -4,7 +4,7 @@ This project is an analysis of an Airbnb open dataset from the Seattle area foun
 
 The dataset has been provided under a <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CCO</a> Public Domain license
 
-#### In this analysis we answer the following questions:
+#### In the analysis we answer the following questions:
 
 - <u>Question 1</u>: What is the distribution of property types in the Seattle Airbnb dataset?
 - <u>Question 2</u>: What is the set of possible amenities and what does the distribution look like?
